@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>ojo</finalName>
 		
 		<plugins>
 			<plugin>
