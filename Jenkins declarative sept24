@@ -61,7 +61,7 @@ pipeline {
 
 Build status.
 
-Landmark Technologies.
+Tar2pieces.
 Tel: +61450192105
 ''', recipientProviders: [buildUser(), developers(), contributor()], subject: 'Build status', to: 'techwithfunmiojo@gmail.com'
       }
@@ -70,7 +70,7 @@ Tel: +61450192105
 
 The build was successful.
 
-Landmark Technologies.
+Tar2pieces.
 Tel: +61450192105
 ''', recipientProviders: [buildUser(), developers(), contributor()], subject: 'Build Successful', to: 'techwithfunmiojo@gmail.com'
       }
